@@ -18,7 +18,7 @@
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/Aaron-zheng/SecKill/master/screenshot/1.jpeg" height="300"/>
-<img src="https://raw.githubusercontent.com/Aaron-zheng/SecKill/master/screenshot/2.jpeg" height="300"/>
-<img src="https://raw.githubusercontent.com/Aaron-zheng/SecKill/master/screenshot/3.jpeg" height="300"/>
-<img src="https://raw.githubusercontent.com/Aaron-zheng/SecKill/master/screenshot/4.jpeg" height="300"/>
+<img src="https://raw.githubusercontent.com/Aaron-zheng/SecKill/master/screenshot/1.png" height="300"/>
+<img src="https://raw.githubusercontent.com/Aaron-zheng/SecKill/master/screenshot/2.png" height="300"/>
+<img src="https://raw.githubusercontent.com/Aaron-zheng/SecKill/master/screenshot/3.png" height="300"/>
+<img src="https://raw.githubusercontent.com/Aaron-zheng/SecKill/master/screenshot/4.png" height="300"/>
