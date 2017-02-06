@@ -6,12 +6,12 @@ use seckill;
 -- 秒杀库存表
 
 CREATE TABLE seckill(
+`create_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '创建时间',
 `seckill_id` bigint NOT NULL AUTO_INCREMENT COMMENT '商品库存id',
 `name` VARCHAR(120) NOT NULL COMMENT '商品名称',
 `number` int NOT NULL COMMENT '库存数量',
 `start_time` timestamp NOT NULL COMMENT '秒杀开启时间',
 `end_time` timestamp NOT NULL COMMENT '秒杀结束时间',
-`create_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '创建时间',
 
 PRIMARY KEY (seckill_id),
 key idx_start_time(start_time),
