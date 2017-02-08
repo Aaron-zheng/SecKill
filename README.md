@@ -1,5 +1,5 @@
 # SecKill
-秒杀系统的搭建和记录 SSM (Spring+SpringMVC+Mybatis)
+秒杀系统的搭建和记录 SSM (Spring+SpringMVC+Mybatis+Redis)
 
 ## 开发环境
 1. JRE: 1.8.0_40-release-b132 x86_64
