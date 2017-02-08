@@ -98,7 +98,8 @@ public class SeckillController {
 
         try {
 
-            SeckillExecution seckillExecution = seckillService.executeSeckill(seckillId, userPhone, md5);
+//            SeckillExecution seckillExecution = seckillService.executeSeckill(seckillId, userPhone, md5);
+            SeckillExecution seckillExecution = seckillService.executeSeckillProcedure(seckillId, userPhone, md5);
             return new SeckillResult<SeckillExecution>(true, seckillExecution);
         } catch (RepeatKillException e) {
 //            重复秒杀
