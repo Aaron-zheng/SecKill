@@ -19,10 +19,17 @@
 ## Screenshot
 
 列表页面
+
 <img src="https://raw.githubusercontent.com/Aaron-zheng/SecKill/master/screenshot/1.png" height="300"/>
+
 倒计时秒杀页面
+
 <img src="https://raw.githubusercontent.com/Aaron-zheng/SecKill/master/screenshot/2.png" height="300"/>
+
 cookie存储手机电话页面
+
 <img src="https://raw.githubusercontent.com/Aaron-zheng/SecKill/master/screenshot/3.png" height="300"/>
+
 高并发秒杀页面
+
 <img src="https://raw.githubusercontent.com/Aaron-zheng/SecKill/master/screenshot/4.png" height="300"/>
